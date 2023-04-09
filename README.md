@@ -1,4 +1,4 @@
-# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project ZTM-Clone
+# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Anant Singh </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project ZTM-Clone
 
 <a href="https://zerotomastery.netlify.app/">Deployed Link</a>
 
@@ -35,15 +35,4 @@
       cd backend
       npm start      
 ```
-<pre>
-       /ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ\
-      |           See You Soon .. 🤝            |
-       ˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇ
-            \
-              ^__^
-              (oo)\_______
-              (__)\ 0   0 )\  *
-                  ||--0-w | \/                                                                       
-                  ||     ||                                                                    Abhay Bisht ^.^
-ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
-</pre>
+
