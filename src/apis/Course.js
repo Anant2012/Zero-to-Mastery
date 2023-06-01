@@ -82,9 +82,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -564,9 +564,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -1142,9 +1142,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -1599,9 +1599,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -1998,9 +1998,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -2376,9 +2376,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -2729,9 +2729,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -3225,9 +3225,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -3651,9 +3651,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -4191,9 +4191,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -4760,9 +4760,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -5104,9 +5104,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -5562,9 +5562,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -5755,9 +5755,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -6316,9 +6316,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -6729,9 +6729,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -7102,9 +7102,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -7656,9 +7656,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -8092,9 +8092,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -8530,9 +8530,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -9035,9 +9035,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -9314,9 +9314,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -9556,9 +9556,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -9915,9 +9915,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -10514,9 +10514,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -10857,9 +10857,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -11063,9 +11063,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -11327,9 +11327,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -11637,9 +11637,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -12007,9 +12007,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -12223,9 +12223,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -12558,9 +12558,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -12723,9 +12723,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -12985,9 +12985,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -13303,9 +13303,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -13646,9 +13646,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -13947,9 +13947,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -14116,9 +14116,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -14480,9 +14480,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -14786,9 +14786,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -15056,9 +15056,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -15411,9 +15411,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -15625,9 +15625,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
@@ -15856,9 +15856,9 @@ export const course_json = [
       {
         instructor_img:
           "https://lh3.googleusercontent.com/9O_F5UmhxjgnzdfPGyBjRfaCJn6NTDFzBVpw7h7JT1QCTZyH7Dfsn9zfNT6lAhiDWhjtKkY8Ri8IGbsyUkJU-MRwzDa7cNESdDPjMBeRt8e4frlj0bJ7YE-UWWK7QKQY1rOrKw4b8yqyaIvE0R0Ue7uHS3MZJHHLGpcXHsn0f4a6iIKN_ghGo7LiOfY9Twal2bCPnW-r_dw14HIxkDrsyAS1URnPQl7_sTqgmkulRbZXKjBThcwcoW37-WewRUPVRWIH6oczeaESys4gg0dfuJ7A8OA86k1APAUGB2JTUPhNSlFD07TUgzWAUIkjNrKV0K2S4ZYQs7oX88s-lXBWoHwgkNIHmzU_vzv26K-6-_8my8y_1yetZya5qbH3M19Hk5vb7a4mZAHEop6iAh2OF9Nh5WdMncID8ZGhcpcb1qjOFgtcDAnYnCVkq8uQzhyE5rEzHI61bVRtEYbGajL81FYWQBwYWJ6E8Zz9xBErHT-n_5qMJ1GGN08rlGzI0x8Jepr9vlVXw6l-ekGZHy5vK_lg1YtsoPpSp-CxsbeE1KHxcEPreHwBgqb9qi8KpQaPD-xRALW5oeFd3udgH1K99RxI_EwCKbIA2SviUll4Nee1gyb5DXQyMjDiuxI3IDYr_IerhrsteSl04vIgZpUnn-LKXmfkUKi4NrmkeyoTSrOT9vB6TSHWs99eYdZTB9yYybunkLYt64lGEOlMxOPZEVcyABZtbmrs6S_sbQDDiJn10xivKgMLv99nzRZM_fXWDuMgN7AuXcPJupLkivOj9BmqqJqGQiSfH4VGL4-5uVXZlXiRe0IbhSNnr0m_fWXW6u0kOqo=w1204-h903-no?authuser=0",
-        Name: "Abhay Bisht",
+        Name: "Anant SIngh",
         Description:
-          "Abhay Bisht, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
+          "Anant SIngh, lead instructor of Zero To Mastery Academy, has taught more than 750,000 students worldwide how to code and get hired. ZTM grads work for world-class companies like Apple, Google, Amazon, Tesla, IBM, Facebook, Shopify and many more.",
         Profile: "Senior Software Developer",
         Linkedin: "https://www.linkedin.com/in/abhay-bisht-042662177/",
         Github: "https://github.com/Znoy108x",
